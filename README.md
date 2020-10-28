@@ -17,13 +17,13 @@ MIDDLEWARE
 
 MODELS
 
-`index.js` imports user login data by connecting to database.
+* `index.js` imports user login data by connecting to database.
 
-`user.js` with requiring bcrypt install, this makes the database secure.
+* `user.js` with requiring bcrypt install, this makes the database secure.
 
 PUBLIC
 
-`login.html`, `members.html`, `signup.html` shows how each page will be displayed on the website.
+* `login.html`, `members.html`, `signup.html` shows how each page will be displayed on the website.
 
 JS
 
